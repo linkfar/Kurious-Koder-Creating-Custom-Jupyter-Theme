@@ -1,0 +1,25 @@
+/*
+   	Theme: Nerdy Spearmint
+	Author: Portia
+	kuriuos koder changing the styles of an Jupyter notebook
+*/
+
+
+#header {
+
+	background-color: #B7D8BB;
+}
+
+#notebook {
+
+	background-color: #B7D8BB;
+}
+
+#notebook-container.container {
+	background-color: #CFDBC5;
+}
+
+h1, h2, h3 {
+
+	color: #d7a000;
+}
